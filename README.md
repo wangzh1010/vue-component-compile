@@ -1,2 +1,2 @@
-# vue-template-compile
-compile vue template
+# vue-component-compile
+compile vue component
